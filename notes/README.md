@@ -2,7 +2,7 @@
 
 My personal study notes from a 90-day Cybersecurity Foundations course, written in my own words as I learned.
 
-**📄 Read the notes:** [`90 Days Cybersecurity-Foundation-myfirsthack.pdf`](90 Days Cybersecurity-Foundation-myfirsthack.pdf) (158 pages)
+**📄 Read the notes:** [90 Days Cybersecurity Foundation Notes](90%20Days%20Cybersecurity-Foundation-myfirsthack.pdf) (158 pages)
 
 The notes follow the course day by day. Each day is a short write-up of the concept, why it matters to an attacker or a defender, and the examples that made it click. The ten portfolio artifacts in this repository were built from this material.
 

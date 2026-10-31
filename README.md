@@ -35,7 +35,3 @@ The work moves from securing one person's accounts to making prioritisation deci
 ## A note on privacy
 
 Personal identifiers (email addresses, account providers, device and network names, locations) have been redacted or generalised. Scenarios such as the shop network, the breach analysis and the Linux VM are course exercises or composites.
-
-## Contact
-
-LinkedIn: [add your LinkedIn URL] | Email: [add your email]
